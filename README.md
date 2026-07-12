@@ -224,8 +224,6 @@ Customer-Churn-Prediction/
 │   ├── Random_Forest_tuned_model.pkl
 │   ├── Gradient_Boosting_model.pkl
 │   └── Gradient_Boosting_tuned_model.pkl
-│
-
 ```
 
 ---
