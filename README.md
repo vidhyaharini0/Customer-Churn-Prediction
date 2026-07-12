@@ -215,15 +215,15 @@ Customer-Churn-Prediction/
 ├── notebooks/
 │   └── Machine_Learning_Project.ipynb
 │
-├── models/
-│   ├── Logistic_Regression_model.pkl
-│   ├── Logistic_Regression_tuned_model.pkl
-│   ├── Decision_Tree_Classifier_model.pkl
-│   ├── Decision_Tree_tuned_model.pkl
-│   ├── Random_Forest_Classifier_model.pkl
-│   ├── Random_Forest_tuned_model.pkl
-│   ├── Gradient_Boosting_model.pkl
-│   └── Gradient_Boosting_tuned_model.pkl
+└── models/
+    ├── Logistic_Regression_model.pkl
+    ├── Logistic_Regression_tuned_model.pkl
+    ├── Decision_Tree_Classifier_model.pkl
+    ├── Decision_Tree_tuned_model.pkl
+    ├── Random_Forest_Classifier_model.pkl
+    ├── Random_Forest_tuned_model.pkl
+    ├── Gradient_Boosting_model.pkl
+    └── Gradient_Boosting_tuned_model.pkl
 ```
 
 ---
