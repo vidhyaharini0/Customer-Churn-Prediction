@@ -225,8 +225,7 @@ Customer-Churn-Prediction/
 │   ├── Gradient_Boosting_model.pkl
 │   └── Gradient_Boosting_tuned_model.pkl
 │
-└── report/
-    └── Machine_Learning_Project_Report.pdf
+
 ```
 
 ---
